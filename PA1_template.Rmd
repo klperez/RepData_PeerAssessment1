@@ -144,4 +144,3 @@ p + geom_line(col='salmon')+facet_grid(.~day)+ylab('Average Steps')+labs(title='
 
 
 
-
